@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://patricknguyen.io/blog/c9-and-hugo/</loc>
+    <loc>http://www.patricknguyen.io/blog/c9-and-hugo/</loc>
     <lastmod>2017-10-01T02:53:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://patricknguyen.io/blog/</loc>
-    <lastmod>2017-10-01T02:53:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://patricknguyen.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://patricknguyen.io/</loc>
+    <loc>http://www.patricknguyen.io/blog/</loc>
     <lastmod>2017-10-01T02:53:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://patricknguyen.io/tags/</loc>
+    <loc>http://www.patricknguyen.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.patricknguyen.io/</loc>
+    <lastmod>2017-10-01T02:53:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.patricknguyen.io/tags/</loc>
     <priority>0</priority>
   </url>
   
