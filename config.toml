@@ -1,0 +1,39 @@
+baseurl = "http://patricknguyen.io/"
+languageCode = "en-US"
+title = "PatrickNguyen.io"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-65313819-1"
+theme = "hugo-sustain"
+publishDir = "docs"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Patrick Nguyen"
+  description = "Personal Website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "superpatricko"
+  Email         = "contact@patricknguyen.io"
+  LinkedIn      = "patrick-nguyen-7a66495a"
+  Stackoverflow = "users/1946822/patrick-nguyen"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 200
+  url = "/resume.pdf"
